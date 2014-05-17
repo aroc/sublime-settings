@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/User/Colorsublime/themes/ant.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"sidebar_small": true,
+	"tab_size": 2,
+	"tabs_small": true,
+	"theme": "predawn.sublime-theme",
+	"use_simple_full_screen": true,
+	"scroll_past_end": true
+}

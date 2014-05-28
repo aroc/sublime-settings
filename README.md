@@ -1,4 +1,11 @@
-sublime-settings
-================
+My Sublime Settings
+===================
 
-My Sublime Text user settings config.
+Includes user settings and keymap.
+
+Important Packages
+==================
+
+ColorSublime
+Predawn (theme)
+DistractionFreeWindow
